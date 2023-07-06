@@ -1,2 +1,1 @@
-# CodeClause_musicplayer
-Project 2-Music Player in Python
+# CodeClause_music_player_in_Python
